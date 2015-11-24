@@ -10,6 +10,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>putil</artifactId>
-
+    <groupId>com.prettyjava</groupId>
+    <packaging>jar</packaging>
+    <version>1.0.0</version>
+    <description>
+        1.0.0 Java之美工具类模块初始版本
+    </description>
 
 </project>

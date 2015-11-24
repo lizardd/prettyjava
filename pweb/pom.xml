@@ -11,6 +11,10 @@
 
     <artifactId>pweb</artifactId>
     <packaging>war</packaging>
+    <version>1.0.0</version>
+    <description>
+        1.0.0 Java之美网站模块初始版本
+    </description>
     <build>
         <finalName>${project.artifactId}</finalName>
         <plugins>
@@ -90,4 +94,11 @@
             </plugin>
         </plugins>
     </build>
+    <dependencies>
+        <dependency>
+            <groupId>com.prettyjava</groupId>
+            <artifactId>putil</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+    </dependencies>
 </project>

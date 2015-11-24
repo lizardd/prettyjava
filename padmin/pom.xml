@@ -10,6 +10,16 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>padmin</artifactId>
-
-
+    <packaging>war</packaging>
+    <version>1.0.0</version>
+    <description>
+        1.0.0 Java之美后台管理系统初始版本
+    </description>
+    <dependencies>
+        <dependency>
+            <groupId>com.prettyjava</groupId>
+            <artifactId>putil</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+    </dependencies>
 </project>
