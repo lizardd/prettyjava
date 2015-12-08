@@ -16,12 +16,4 @@
         1.0.0 Java之美核心后端模块初始版本
     </description>
 
-    <dependencies>
-        <dependency>
-            <groupId>com.prettyjava</groupId>
-            <artifactId>putil</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-    </dependencies>
-
 </project>

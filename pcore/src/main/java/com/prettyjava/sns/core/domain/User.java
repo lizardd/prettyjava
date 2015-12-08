@@ -1,4 +1,4 @@
-package com.prettyjava.sns.domain;
+package com.prettyjava.sns.core.domain;
 
 /**
  * Created by 二青 on 15/11/24 at 下午10:37..
