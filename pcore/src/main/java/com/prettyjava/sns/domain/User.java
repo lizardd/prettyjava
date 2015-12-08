@@ -1,7 +1,7 @@
 package com.prettyjava.sns.domain;
 
 /**
- * Created by 二青 on 15/11/24 at 下午10:37.
+ * Created by 二青 on 15/11/24 at 下午10:37..
  */
 public class User {
 	
