@@ -15,6 +15,13 @@
     <description>
         1.0.0 Java之美网站模块初始版本
     </description>
+    <dependencies>
+        <dependency>
+            <groupId>com.prettyjava</groupId>
+            <artifactId>pcore</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+    </dependencies>
     <build>
         <finalName>${project.artifactId}</finalName>
         <plugins>
@@ -73,14 +80,6 @@
                         <version>${org.aspectj-version}</version>
                     </dependency>
                 </dependencies>
-                <executions>
-                    <execution>
-                        <goals>
-                            <goal>compile</goal>
-                            <goal>test-compile</goal>
-                        </goals>
-                    </execution>
-                </executions>
                 <configuration>
                     <outxml>true</outxml>
                     <source>${java-version}</source>
@@ -94,11 +93,4 @@
             </plugin>
         </plugins>
     </build>
-    <dependencies>
-        <dependency>
-            <groupId>com.prettyjava</groupId>
-            <artifactId>putil</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-    </dependencies>
 </project>

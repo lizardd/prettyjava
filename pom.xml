@@ -10,7 +10,6 @@
     <modules>
         <module>pweb</module>
         <module>padmin</module>
-        <module>putil</module>
         <module>psearch</module>
         <module>pservice</module>
         <module>pcore</module>
