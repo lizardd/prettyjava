@@ -14,7 +14,6 @@
         <module>psearch</module>
         <module>pservice</module>
         <module>pcore</module>
-        <module>pwork</module>
     </modules>
     <packaging>pom</packaging>
     <properties>

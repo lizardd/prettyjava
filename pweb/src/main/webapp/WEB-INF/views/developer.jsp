@@ -35,31 +35,31 @@
 			王杰 － Java后台&前端
 		</li>
 		<li>
-			苏振 － Java后端
+			苏振 － Java开发
 		</li>
 		<li>
-			林明坤 － Java后端
+			林明坤 － Java开发
 		</li>
 		<li>
-			张元兴 － Java后端
+			张元兴 － Java开发
 		</li>
 		<li>
-			亮煌 － Java后端
+			亮煌 － Java开发
 		</li>
 		<li>
 			朱晓权 － 产品&架构
 		</li>
 		<li>
-			吴昊 － Java后端
+			吴昊 － Java开发
 		</li>
 		<li>
-			陈志明 － Java后端
+			陈志明 － Java开发
 		</li>
 		<li>
-			李勇 － Java后端
+			李勇 － Java开发
 		</li>
 		<li>
-			阮宏博 － Java后端
+			阮宏博 － Java开发
 		</li>
 		<li>
 			罗登相 － Java开发
@@ -87,6 +87,21 @@
 		</li>
 		<li>
 			邱志立 － Java开发
+		</li>
+		<li>
+			杨刚 － Java开发
+		</li>
+		<li>
+			伍晟磊 - Android
+		</li>
+		<li>
+			李剑浩 － Java开发
+		</li>
+		<li>
+			晁占强 - Java开发
+		</li>
+		<li>
+			耿帅帅 - Java开发
 		</li>
 	</ul>
 </div>
